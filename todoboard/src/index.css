@@ -1,0 +1,44 @@
+.form {
+  text-align: center;
+}
+
+.input {
+  margin: 5px 5px;
+  border-radius: 5px;
+  text-align: center;
+  width: 40dvh;
+  height: 6dvh;
+  padding: 5px 5px;
+}
+.addButton {
+  border: solid 1px #000000;
+  margin: 5px 5px;
+  border-radius: 5px;
+  background-color: pink;
+  width: 10dvh;
+  height: 9dvh;
+  padding: 5px 5px;
+}
+.appHeading {
+  text-align: center;
+}
+
+.board {
+  border: solid 1px #000000;
+  width: auto;
+  padding: 5px 5px;
+  margin: 2px 2px 2px 2px;
+}
+
+.board-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.deleteButton {
+  border: solid 1px #000000;
+  border-radius: 5px;
+  height: 5dvh;
+  width: auto;
+}
